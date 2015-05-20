@@ -1,0 +1,11 @@
+# Enio Silva
+# Florianopolis, 19/05/2015
+
+Este projeto contempla um Crawler do Twitter (aplicativo que conecte na API de streaming do twitter e fique procurando posts com determinadas palavras chaves em determinados idiomas).
+Esse é o aplicativo que vai abastecer a aplicação Rails com dados do twitter.
+
+O projeto inclui:
+	README			:	Descrição do projeto 
+	searchAndCrawller.rb	:	Código em Ruby
+	conf/credentials.yml	:	Confiurações da API de streaming no twitter
+
